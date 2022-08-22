@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(79, 153, 153);
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.contact-links {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 14px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
